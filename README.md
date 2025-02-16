@@ -59,4 +59,9 @@ Schedule the entire pipeline to run daily, ensuring that both the data and repor
 - **Power BI:** For data visualization and reporting.
 - **Azure Key Vault:** For securely managing credentials and secrets.
 
+## Raw to Bronze Layer in Azure DataFactory
+![image](https://github.com/user-attachments/assets/53187444-b9fd-4800-9d7f-b3b2bf7030e0)
+
+## Bronze to Silver Layer in Azure DataBricks
+
 
