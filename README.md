@@ -64,4 +64,18 @@ Schedule the entire pipeline to run daily, ensuring that both the data and repor
 
 ## Bronze to Silver Layer in Azure DataBricks
 
+[Python File](https://github.com/Mahendra710/Azure-Data-Engineer-Project/blob/main/Silver%20Layer.ipynb)
+
+## Silver to Gold Layer in Azure Synapse Workspace
+
+[Create Schema](https://github.com/Mahendra710/Azure-Data-Engineer-Project/blob/main/Creat%20Schema.sql)
+
+[Create Gold View](https://github.com/Mahendra710/Azure-Data-Engineer-Project/blob/main/Creat%20View%20Gold.sql)
+
+[Create Master Key](https://github.com/Mahendra710/Azure-Data-Engineer-Project/blob/main/Create%20%20Master%20Key.sql)
+
+[External Credential_datasource_file](https://github.com/Mahendra710/Azure-Data-Engineer-Project/blob/main/External%20Credential_datasource_fileformat.sql)
+
+[Create External Table](https://github.com/Mahendra710/Azure-Data-Engineer-Project/blob/main/Create%20External%20Table.sql)
+
 
